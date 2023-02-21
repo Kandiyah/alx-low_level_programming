@@ -1,13 +1,9 @@
 #include "main.h"
-
 /**
- * print_sign - function that prints signs
- *
- * @n: function parameter
- *
- * return: 1, 0 and -1
+ * print_sign - prints the sign of a number
+ * @n: the int to check
+ * Return: always 0
  */
-
 
 int print_sign(int n)
 {
